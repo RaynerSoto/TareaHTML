@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+table,td,th{
+    border: solid 1px;
+}
+
+table{
+    margin: auto;
+    width: 500px;
+}
+
+.ampliar{
+    width: 500px;
+    text-align: right;
+}
+
+#foto{
+    text-align: center;
+    width: 180px;
+    height: 180px;
+}
+
+h4{
+    text-align: center;
+}
