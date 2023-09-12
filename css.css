@@ -9,6 +9,7 @@ table,td,th{
 table{
     margin: auto;
     width: 500px;
+    max-width: 100%;
 }
 
 .ampliar{
