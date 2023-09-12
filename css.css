@@ -4,12 +4,13 @@ body{
 
 table,td,th{
     border: solid 1px;
+    max-width: 100%;
+    height: auto;
 }
 
 table{
     margin: auto;
     width: 500px;
-    max-width: 100%;
 }
 
 .ampliar{
